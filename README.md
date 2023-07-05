@@ -49,6 +49,6 @@ Since autoclickers need to be started manually, we will add a command to the Pyt
                 mail.store(mail_ids[0], '+FLAGS', '\\Deleted')
 
 
-Written by einfachpeer_openai_license
+Written by einfachpeer
 
 OPEN SOURCE!
